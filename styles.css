@@ -1,7 +1,15 @@
-img{
-    width: 300
-}
-body{
+body {
+    background-color: lightblue;
     text-align: center;
-    font-family:  "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: "Comic Sans";
+    
+    font-size: 20px;
 }
